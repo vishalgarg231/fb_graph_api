@@ -1,0 +1,4 @@
+require 'bundler/setup'
+require 'fb_graph_api/cli'
+
+FbGraphApi::CLI.start(ARGV)

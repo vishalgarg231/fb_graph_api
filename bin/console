@@ -10,5 +10,6 @@ require "fb_graph_api"
 # require "pry"
 # Pry.start
 
-require "irb"
-IRB.start
+require 'readline'
+require 'pry'
+Pry.start
