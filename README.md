@@ -60,7 +60,7 @@ Profile.picture('large')
 
 ## Documentation
 
-Documentation is available [here]()
+Documentation is available [here](http://www.rubydoc.info/gems/fb_graph_api)
 
 Some usage examples are also available [here](example/mock.rb)
 
