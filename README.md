@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/fb_graph_api.svg)](https://badge.fury.io/rb/fb_graph_api)
+
 # FbGraphApi !! Kudos !!
 
 Ruby wrapper for [Facebook Graph APIs](https://developers.facebook.com/docs/graph-api).
