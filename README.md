@@ -1,4 +1,4 @@
-[![Gem Version](https://badge.fury.io/rb/fb_graph_api.svg)](https://badge.fury.io/rb/fb_graph_api)
+[![Gem Version](https://badge.fury.io/rb/fb_graph_api.svg)](https://badge.fury.io/rb/fb_graph_api)[![Code Climate](https://codeclimate.com/github/vishalgarg231/fb_graph_api/badges/gpa.svg)](https://codeclimate.com/github/vishalgarg231/fb_graph_api)
 
 # FbGraphApi !! Kudos !!
 
